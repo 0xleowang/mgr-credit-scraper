@@ -1,5 +1,5 @@
 # MGR Credit Scraper
-A simple bot for scraping Monash University Graduate Research online courses credit points. Powered by Python and Selenium.
+A simple bot for scraping Monash university Graduate Research (MGR) online courses credit points. Powered by Python and Selenium.
 
 # Results (04-Jun-2020)
 |Class Name                                                       |Type        |Graduate Education Hour|Additional Hour|URL                                                                                            |
